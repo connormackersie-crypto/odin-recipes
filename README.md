@@ -1,3 +1,3 @@
 # odin-recipes
-
-This project is to allow me to practice on my basic HTML skills, and goign furhter into depth on my abilities of using git and learning the process behind a version control system. 
+A basic recipe page, including 3 different recipes 
+This project is going to allow me to practice on my basic HTML skills by utilzing basic principles to craft a well developed front end framework. It will also allow me to fully learn about not only front end engineering but backend as well. Lastly, it's introducing me to the concepts of git and how to actually use and work a version control system when working on real projects. 
