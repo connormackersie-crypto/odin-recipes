@@ -1,7 +1,7 @@
 * {
     background-color: rgb(189,180,180);
 }
-#title {
+.title {
     background-color: white;
     border: solid black;
     padding: 10px;
@@ -27,7 +27,7 @@
      border: black solid;
      
 }
-ul li{
+.ancestor li{
     margin-bottom:20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight:bold;
@@ -42,4 +42,23 @@ ul li{
 }
 #patties{
     margin-bottom:40px;
+}
+.home{
+    font-family: cursive;
+
+}
+div.description{
+    text-align: center;
+}
+.pattyingred li{
+    margin: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.pattysteps li{
+    margin: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.pic{
+    display:block
+    margin: 0 auto
 }
