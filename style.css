@@ -1,0 +1,45 @@
+* {
+    background-color: rgb(189,180,180);
+}
+#title {
+    background-color: white;
+    border: solid black;
+    padding: 10px;
+    text-align: center;
+    font-family: cursive;
+}
+
+#links-first{
+    background-color: white;
+    border: black solid;
+    padding: 5px;
+    
+
+}
+#links-second{
+    background-color: white;
+    border: black solid;
+    padding: 5px;
+
+}
+#links-third{
+    background-color: white;
+     border: black solid;
+     
+}
+ul li{
+    margin-bottom:20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bold;
+    font-size: 20px;
+}
+#burger{
+    margin:0px 0px 40px 0px;
+}
+
+#cookies{
+    margin-bottom:40px;
+}
+#patties{
+    margin-bottom:40px;
+}
